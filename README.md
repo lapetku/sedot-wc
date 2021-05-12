@@ -1,4 +1,4 @@
-<h1 style-align:"center"> Sedot WC Kini Lebih Mudah Dan Lebih Canggih</h1>
+# Sedot WC Kini Lebih Mudah Dan Lebih Canggih
 > Anda Cukup Jalankan Script dan Secara Otomatis Script Akan Menyedot WC Anda Sampai Bersih
 
 ### Cara Pakai
