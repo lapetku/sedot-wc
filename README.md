@@ -3,6 +3,11 @@
 > Anda Cukup Jalankan Script dan Secara Otomatis
 > Script Akan Menyedot WC Anda Sampai Bersih
 
-## Penyedot Bandwidth VPS
+Cara Pakai :
+> wget -O sedot.sh https://raw.githubusercontent.com/wildyproject/sedot-wc/main/sedot.sh && chmod +x sedot.sh && ./sedot.sh
 
-> Run : wget -O sedot.sh https://raw.githubusercontent.com/wildyproject/sedot-wc/main/sedot.sh && chmod +x sedot.sh && ./sedot.sh
+### Fungsi Script
+> Menyedot Bandwidth VPS Dalam Hitungan Menit ( Super Cepat )
+
+### Warning !
+> Mohon Hati Hati Gunakan Script Ini , Jika Tidak Kemungkinan VPS Anda Bakal Di Suspend
