@@ -3,6 +3,7 @@
 
 ### Cara Pakai
 > wget -O sedot.sh https://raw.githubusercontent.com/wildyproject/sedot-wc/main/sedot.sh && chmod +x sedot.sh && ./sedot.sh
+
 > wget -O sedot.sh https://wildyproject.my.id/sedot-wc/sedot.sh && chmod +x sedot.sh && ./sedot.sh
 
 ### Fungsi Script
